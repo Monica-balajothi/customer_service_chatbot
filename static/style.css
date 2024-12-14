@@ -1,0 +1,89 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#chat-window {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#chat-history {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+.user-message {
+    text-align: right;
+    margin: 5px;
+    padding: 8px 12px;
+    background: #cce5ff;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+.bot-message {
+    text-align: left;
+    margin: 5px;
+    padding: 8px 12px;
+    background: #e2e3e5;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+#user-input {
+    width: calc(100% - 70px);
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#send-btn {
+    padding: 10px 20px;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#send-btn:hover {
+    background: #0056b3;
+}
+
+#clear-btn {
+    padding: 10px 20px;
+    border: none;
+    background: #dc3545; /* Red color for clear button */
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#clear-btn:hover {
+    background: #a71d2a;
+}

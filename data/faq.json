@@ -1,0 +1,46 @@
+[
+    {
+        "question": "What can you do?",
+        "answer": "I can assist you with the following:\n- Answer FAQs about our services and policies.\n- Help you track your orders.\n- Assist with order cancellations.\nLet me know how I can help!"
+    },
+    {
+        "question": "What is the return policy?",
+        "answer": "Our return policy allows returns within 30 days of purchase."
+    },
+    {
+        "question": "How do I track my order?",
+        "answer": "You can track your order by providing your order ID."
+    },
+    {
+        "question": "What are your shipping options?",
+        "answer": "We offer standard, expedited, and next-day shipping options."
+    },
+    {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to over 50 countries worldwide. Shipping costs and delivery times vary by location."
+    },
+    {
+        "question": "Can I change or cancel my order?",
+        "answer": "You can change or cancel your order within 24 hours of placing it. Contact customer support for assistance."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit cards, debit cards, PayPal, and Apple Pay."
+    },
+    {
+        "question": "How do I use a promo code?",
+        "answer": "You can apply a promo code at checkout in the 'Promo Code' field. Click 'Apply' to see the discount."
+    },
+    {
+        "question": "What should I do if I receive a damaged item?",
+        "answer": "If you receive a damaged item, please contact customer support with a photo of the item, and we will assist you with a replacement or refund."
+    },
+    {
+        "question": "Do you offer gift wrapping?",
+        "answer": "Yes, we offer gift wrapping for an additional fee. You can select this option during checkout."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact customer support through our help center or by calling our toll-free number at 1-800-555-1234."
+    }
+]
