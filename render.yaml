@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: customer-service-chatbot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python main.py"
